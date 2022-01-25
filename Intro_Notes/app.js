@@ -33,3 +33,6 @@
 // GRAPH TRAVERSAL
 // DIJKSTRA'S ALG
 // DYNAMIC PROGRAMMING
+
+// snippets?! chrome
+// inspect > sources > + New Snippet
