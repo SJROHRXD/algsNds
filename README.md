@@ -1,6 +1,6 @@
 # JavaScript Algorithms and Data Structures Masterclass #
 
-Personal notes from the Udemy Course *JavaScript Algorithms and Data Structures Masterclass*
+<center><em>Personal notes from the Udemy Course</em></center>
 
 ---
 
