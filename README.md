@@ -1,6 +1,6 @@
 # JavaScript Algorithms and Data Structures Masterclass #
 
-<center><em>Personal notes from the Udemy Course</em></center>
+<em>Personal notes from the Udemy Course</em>
 
 ---
 ---
@@ -140,4 +140,4 @@
 ## Dynamic Programming <a name="29"></a>
 
 ---
-Last Updated:  Tuesday, January 25, 2022 00:36
+Last Updated: Tuesday, January 25, 2022 01:03
