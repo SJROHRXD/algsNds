@@ -72,6 +72,61 @@ Also, check this out: [The 50 Most Popular Linux & Terminal Commands](https://yo
 
 ## Introduction <a name="1"></a>
 
+## Big O Notation <a name="2"></a>
+
+## Analyzing Performance of Arrays and Objects <a name="3"></a>
+
+## Problem Solving Approach <a name="4"></a>
+
+## Problem Solving Patterns <a name="5"></a>
+
 ## 100% OPTIONAL Challenges <a name="6"></a>
 
+## Recursion <a name="7"></a>
+
+## Recursion Problem Set <a name="8"></a>
+
+## Bonus CHALLENGING Recursion Problems <a name="9"></a>
+
+## Searching Algorithms <a name="10"></a>
+
+## Bubble Sort <a name="11"></a>
+
+## Selection Sort <a name="12"></a>
+
+## Insertion Sort <a name="13"></a>
+
+## Comparing Bubble, Selection, and Insertion Sort <a name="14"></a>
+
+## Merge Sort <a name="15"></a>
+
+## Quick Sort <a name="16"></a>
+
+## Radix Sort <a name="17"></a>
+
+## Data Structures Introduction <a name="18"></a>
+
+## Singly Linked Lists <a name="19"></a>
+
+## Doubly Linked Lists <a name="20"></a>
+
+## Stacks + Queues <a name="21"></a>
+
+## Binary Search Trees <a name="22"></a>
+
+## Tree Traversal <a name="23"></a>
+
+## Binary Heaps <a name="24"></a>
+
+## Hash Tables <a name="25"></a>
+
+## Graphs <a name="26"></a>
+
+## Graph Traversal <a name="27"></a>
+
 ## Dijkstra's Algorithm! <a name="28"></a>
+
+## Dynamic Programming <a name="29"></a>
+
+---
+Last Updated:  Tuesday, January 25, 2022 00:36
