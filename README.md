@@ -140,4 +140,12 @@
 ## Dynamic Programming <a name="29"></a>
 
 ---
-Last Updated: Tuesday, January 25, 2022 01:03
+Last Updated: Tuesday, January 25, 2022 01:12
+
+Did you know?
+
+```javascript
+alert(new Array() == false); 
+
+// evaluates true
+```
