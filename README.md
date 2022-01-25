@@ -3,20 +3,22 @@
 <center><em>Personal notes from the Udemy Course</em></center>
 
 ---
+---
 
 <!-- Table Start -->
 
 |Related| ⚡ Links ⚡|
 |-:	|---	|
 |Find the course here:   	|[JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)|
-|Course created by:   	|[Colt Steele](https://www.youtube.com/c/ColtSteeleCode) 👨‍💻|
+|Course created by:   	|[Colt Steele](https://www.youtube.com/c/ColtSteeleCode)|
 |Also, check this out:   	|[The 50 Most Popular Linux & Terminal Commands](https://youtu.be/ZtqBQ68cfJc)|
 
 <!-- Table End -->
 
 ---
+---
 
-### Contents 💦 ###
+## Contents 💦 ##
 
 🔹 [Section 1:](#1) Introduction
 
@@ -76,6 +78,7 @@
 
 🔹 [Section 29:](#29) Dynamic Programming
 
+---
 ---
 
 ## Introduction <a name="1"></a>
